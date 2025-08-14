@@ -11,3 +11,6 @@ Excel Project
 - Displays top department referrals for follow-up care
   
 📈 This dashboard transforms hospital records into clear, actionable insights—helping healthcare teams improve operations, enhance patient experience, and make data-driven decisions.
+
+![Final Dashboard](https://github.com/user-attachments/assets/36f19824-3c51-4003-b6cb-9feb212918fd)
+
